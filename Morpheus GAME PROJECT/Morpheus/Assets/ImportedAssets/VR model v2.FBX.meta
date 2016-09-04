@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 2d781f1cfd0c68742b8c7a98a6a34de3
+timeCreated: 1472032662
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm
+    100002: Barrel
+    100004: Elbow
+    100006: Eye
+    100008: GunBit
+    100010: Head
+    100012: LFoot
+    100014: LKnee
+    100016: LLeg
+    100018: LLegJoin
+    100020: LShin
+    100022: MechWarrior
+    100024: MechWarriorHub001
+    100026: MechWarriorHub002
+    100028: MechWarriorLArm1
+    100030: MechWarriorLArm2
+    100032: MechWarriorLArmCollarbone
+    100034: MechWarriorLArmDigit11
+    100036: MechWarriorLArmPalm
+    100038: MechWarriorLLeg1
+    100040: MechWarriorLLeg2
+    100042: MechWarriorLLegAnkle
+    100044: MechWarriorLLegPlatform
+    100046: MechWarriorRLeg1
+    100048: MechWarriorRLeg2
+    100050: MechWarriorRLegAnkle
+    100052: MechWarriorRLegPlatform
+    100054: MechWarriorSpine
+    100056: Missle
+    100058: Missle001
+    100060: Missle002
+    100062: Missle003
+    100064: Missle004
+    100066: Missle005
+    100068: Missle006
+    100070: Missle007
+    100072: Missle008
+    100074: Missle009
+    100076: Missle010
+    100078: Missle011
+    100080: Missle012
+    100082: Missle013
+    100084: Missle014
+    100086: MissleCavity
+    100088: Neck
+    100090: RFoot
+    100092: RKnee
+    100094: RLeg
+    100096: RLegJoin
+    100098: RShin
+    100100: RShoulderMount
+    100102: Sights1
+    100104: Sights2
+    100106: Torso
+    100108: //RootNode
+    400000: Arm
+    400002: Barrel
+    400004: Elbow
+    400006: Eye
+    400008: GunBit
+    400010: Head
+    400012: LFoot
+    400014: LKnee
+    400016: LLeg
+    400018: LLegJoin
+    400020: LShin
+    400022: MechWarrior
+    400024: MechWarriorHub001
+    400026: MechWarriorHub002
+    400028: MechWarriorLArm1
+    400030: MechWarriorLArm2
+    400032: MechWarriorLArmCollarbone
+    400034: MechWarriorLArmDigit11
+    400036: MechWarriorLArmPalm
+    400038: MechWarriorLLeg1
+    400040: MechWarriorLLeg2
+    400042: MechWarriorLLegAnkle
+    400044: MechWarriorLLegPlatform
+    400046: MechWarriorRLeg1
+    400048: MechWarriorRLeg2
+    400050: MechWarriorRLegAnkle
+    400052: MechWarriorRLegPlatform
+    400054: MechWarriorSpine
+    400056: Missle
+    400058: Missle001
+    400060: Missle002
+    400062: Missle003
+    400064: Missle004
+    400066: Missle005
+    400068: Missle006
+    400070: Missle007
+    400072: Missle008
+    400074: Missle009
+    400076: Missle010
+    400078: Missle011
+    400080: Missle012
+    400082: Missle013
+    400084: Missle014
+    400086: MissleCavity
+    400088: Neck
+    400090: RFoot
+    400092: RKnee
+    400094: RLeg
+    400096: RLegJoin
+    400098: RShin
+    400100: RShoulderMount
+    400102: Sights1
+    400104: Sights2
+    400106: Torso
+    400108: //RootNode
+    4300000: Torso
+    4300002: RLegJoin
+    4300004: RLeg
+    4300006: RKnee
+    4300008: RShin
+    4300010: RFoot
+    4300012: LLegJoin
+    4300014: LLeg
+    4300016: LKnee
+    4300018: LShin
+    4300020: LFoot
+    4300022: Arm
+    4300024: Elbow
+    4300026: Barrel
+    4300028: GunBit
+    4300030: Sights2
+    4300032: Sights1
+    4300034: RShoulderMount
+    4300036: MissleCavity
+    4300038: Missle
+    4300040: Missle001
+    4300042: Missle002
+    4300044: Missle003
+    4300046: Missle004
+    4300048: Missle005
+    4300050: Missle006
+    4300052: Missle007
+    4300054: Missle008
+    4300056: Missle009
+    4300058: Missle010
+    4300060: Missle011
+    4300062: Missle012
+    4300064: Missle013
+    4300066: Missle014
+    4300068: Neck
+    4300070: Head
+    4300072: Eye
+    7400000: Walk
+    7400002: FireMissiles
+    7400004: KneelFire
+    9500000: //RootNode
+    13700000: Arm
+    13700002: Barrel
+    13700004: Elbow
+    13700006: Eye
+    13700008: GunBit
+    13700010: Head
+    13700012: LFoot
+    13700014: LKnee
+    13700016: LLeg
+    13700018: LLegJoin
+    13700020: LShin
+    13700022: Missle
+    13700024: Missle001
+    13700026: Missle002
+    13700028: Missle003
+    13700030: Missle004
+    13700032: Missle005
+    13700034: Missle006
+    13700036: Missle007
+    13700038: Missle008
+    13700040: Missle009
+    13700042: Missle010
+    13700044: Missle011
+    13700046: Missle012
+    13700048: Missle013
+    13700050: Missle014
+    13700052: MissleCavity
+    13700054: Neck
+    13700056: RFoot
+    13700058: RKnee
+    13700060: RLeg
+    13700062: RLegJoin
+    13700064: RShin
+    13700066: RShoulderMount
+    13700068: Sights1
+    13700070: Sights2
+    13700072: Torso
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechWarrior
+        weight: 1
+      - path: MechWarriorHub001
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1/MechWarriorLLeg2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1/MechWarriorLLeg2/MechWarriorLLegAnkle
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1/MechWarriorRLeg2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1/MechWarriorRLeg2/MechWarriorRLegAnkle
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2/MechWarriorLArmPalm
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2/MechWarriorLArmPalm/MechWarriorLArmDigit11
+        weight: 1
+      - path: MechWarriorLLegPlatform
+        weight: 1
+      - path: MechWarriorRLegPlatform
+        weight: 1
+      - path: Torso
+        weight: 1
+      - path: Torso/Arm
+        weight: 1
+      - path: Torso/Arm/Elbow
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/GunBit
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/Sights1
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/Sights2
+        weight: 1
+      - path: Torso/LLegJoin
+        weight: 1
+      - path: Torso/LLegJoin/LLeg
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee/LShin
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee/LShin/LFoot
+        weight: 1
+      - path: Torso/Neck
+        weight: 1
+      - path: Torso/Neck/Head
+        weight: 1
+      - path: Torso/Neck/Head/Eye
+        weight: 1
+      - path: Torso/RLegJoin
+        weight: 1
+      - path: Torso/RLegJoin/RLeg
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee/RShin
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee/RShin/RFoot
+        weight: 1
+      - path: Torso/RShoulderMount
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle001
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle002
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle003
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle004
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle005
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle006
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle007
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle008
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle009
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle010
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle011
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle012
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle013
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FireMissiles
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechWarrior
+        weight: 1
+      - path: MechWarriorHub001
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1/MechWarriorLLeg2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1/MechWarriorLLeg2/MechWarriorLLegAnkle
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1/MechWarriorRLeg2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1/MechWarriorRLeg2/MechWarriorRLegAnkle
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2/MechWarriorLArmPalm
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2/MechWarriorLArmPalm/MechWarriorLArmDigit11
+        weight: 1
+      - path: MechWarriorLLegPlatform
+        weight: 1
+      - path: MechWarriorRLegPlatform
+        weight: 1
+      - path: Torso
+        weight: 1
+      - path: Torso/Arm
+        weight: 1
+      - path: Torso/Arm/Elbow
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/GunBit
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/Sights1
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/Sights2
+        weight: 1
+      - path: Torso/LLegJoin
+        weight: 1
+      - path: Torso/LLegJoin/LLeg
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee/LShin
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee/LShin/LFoot
+        weight: 1
+      - path: Torso/Neck
+        weight: 1
+      - path: Torso/Neck/Head
+        weight: 1
+      - path: Torso/Neck/Head/Eye
+        weight: 1
+      - path: Torso/RLegJoin
+        weight: 1
+      - path: Torso/RLegJoin/RLeg
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee/RShin
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee/RShin/RFoot
+        weight: 1
+      - path: Torso/RShoulderMount
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle001
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle002
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle003
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle004
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle005
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle006
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle007
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle008
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle009
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle010
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle011
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle012
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle013
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KneelFire
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechWarrior
+        weight: 1
+      - path: MechWarriorHub001
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1/MechWarriorLLeg2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorLLeg1/MechWarriorLLeg2/MechWarriorLLegAnkle
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1/MechWarriorRLeg2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorRLeg1/MechWarriorRLeg2/MechWarriorRLegAnkle
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2/MechWarriorLArmPalm
+        weight: 1
+      - path: MechWarriorHub001/MechWarriorSpine/MechWarriorHub002/MechWarriorLArmCollarbone/MechWarriorLArm1/MechWarriorLArm2/MechWarriorLArmPalm/MechWarriorLArmDigit11
+        weight: 1
+      - path: MechWarriorLLegPlatform
+        weight: 1
+      - path: MechWarriorRLegPlatform
+        weight: 1
+      - path: Torso
+        weight: 1
+      - path: Torso/Arm
+        weight: 1
+      - path: Torso/Arm/Elbow
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/GunBit
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/Sights1
+        weight: 1
+      - path: Torso/Arm/Elbow/Barrel/Sights2
+        weight: 1
+      - path: Torso/LLegJoin
+        weight: 1
+      - path: Torso/LLegJoin/LLeg
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee/LShin
+        weight: 1
+      - path: Torso/LLegJoin/LLeg/LKnee/LShin/LFoot
+        weight: 1
+      - path: Torso/Neck
+        weight: 1
+      - path: Torso/Neck/Head
+        weight: 1
+      - path: Torso/Neck/Head/Eye
+        weight: 1
+      - path: Torso/RLegJoin
+        weight: 1
+      - path: Torso/RLegJoin/RLeg
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee/RShin
+        weight: 1
+      - path: Torso/RLegJoin/RLeg/RKnee/RShin/RFoot
+        weight: 1
+      - path: Torso/RShoulderMount
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle001
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle002
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle003
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle004
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle005
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle006
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle007
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle008
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle009
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle010
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle011
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle012
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle013
+        weight: 1
+      - path: Torso/RShoulderMount/MissleCavity/Missle014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
